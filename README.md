@@ -1,1 +1,1 @@
-# Website: <a href="https://yasharyanthecoder.github.io/Yash-Aryan.github.io/">Follow this link</a>
+# Website: <a href="https://yasharyan.me/">Follow this link</a>
